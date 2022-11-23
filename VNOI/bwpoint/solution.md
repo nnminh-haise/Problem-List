@@ -1,0 +1,1 @@
+<img src="https://cdn.ucode.vn/uploads/33881/upload/AWeBhENM.png" class="element-left content-img" />
