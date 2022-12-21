@@ -70,6 +70,8 @@
 
 | Statement | Editorial |
 | :-------- | :-------- |
+| [Dãy nhị phân](/Users/minh/Code/problem-list/Self/Binary-Array/statement.md) | [Lời giải - Editorial](/Users/minh/Code/problem-list/Self/Binary-Array/editorial.md) |
+| [Tính toán 1](/Users/minh/Code/problem-list/Self/Math-1/statement.md) | [Lời giải - Editorial](/Users/minh/Code/problem-list/Self/Math-1/editorial.md) |
 
 <!-- END_OF_Self -->
 
@@ -92,3 +94,5 @@
 <!-- END_OF_Others -->
 
 ---
+
+
